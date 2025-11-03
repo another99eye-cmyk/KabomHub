@@ -54,141 +54,141 @@ For Customers
 🎨 KabomHub UI / Wireframe Design Plan
 🏠 1. Home Page
 
-Purpose: The welcoming hub — clear, fast, and inviting.
+    Purpose: The welcoming hub — clear, fast, and inviting.
 
-Layout:
+    Layout:
 
-Header / Navbar:
+    Header / Navbar:
 
-Left: KabomHub logo (bold, geometric, warm color tone — maybe orange & deep gray)
+    Left: KabomHub logo (bold, geometric, warm color tone — maybe orange & deep gray)
 
-Center/Right:
+    Center/Right:
 
-Home | Find Businesses | For Businesses | About | Contact
+    Home | Find Businesses | For Businesses | About | Contact
 
-“List Your Business” button (highlighted)
+    “List Your Business” button (highlighted)
 
-Hero Section:
-A big search bar over a subtle cityscape or map background.
+    Hero Section:
+    A big search bar over a subtle cityscape or map background.
 
-Input: “Search for businesses or products…”
+    Input: “Search for businesses or products…”
 
-Dropdown: category selector (Food, Clothing, Services, etc.)
+    Dropdown: category selector (Food, Clothing, Services, etc.)
 
-Button: 🔍 Search
+    Button: 🔍 Search
 
-Sections Below:
+    Sections Below:
 
-“Top Categories” — a row of cards (Food, Clothing, Electronics, etc.)
+    “Top Categories” — a row of cards (Food, Clothing, Electronics, etc.)
 
-“Featured Businesses” — carousel of business cards with images
+    “Featured Businesses” — carousel of business cards with images
 
-“Need a Website or App?” — call-to-action banner → leads to Project Request Page
+    “Need a Website or App?” — call-to-action banner → leads to Project Request Page
 
-Footer with contact info, copyright, and social icons
+    Footer with contact info, copyright, and social icons
 
 🧭 2. Find Businesses Page
 
-Purpose: Core discovery center — search, map, and category filters.
+    Purpose: Core discovery center — search, map, and category filters.
 
-Layout:
+    Layout:
 
-Top Bar:
+    Top Bar:
 
-Search input + category filter + location filter (optional: auto-detect)
+    Search input + category filter + location filter (optional: auto-detect)
 
-“Map View / List View” toggle button
+    “Map View / List View” toggle button
 
-Main Body:
+    Main Body:
 
-Left (List Mode): Grid of BusinessCards
+    Left (List Mode): Grid of BusinessCards
 
-Each card shows:
+    Each card shows:
 
-Image / Logo
+    Image / Logo
 
-Name, Category, Short Description
+    Name, Category, Short Description
 
-“View Details” button
+    “View Details” button
 
-Right (Map Mode):
+    Right (Map Mode):
 
-Interactive map (Google Maps or Leaflet)
+    Interactive map (Google Maps or Leaflet)
 
-Click on markers to preview business info popup
+    Click on markers to preview business info popup
 
 🏢 3. Business Details Page
 
-Purpose: Individual business profile page.
+    Purpose: Individual business profile page.
 
-Layout:
+    Layout:
 
-Top: Business banner image / logo
+    Top: Business banner image / logo
 
-Body:
+    Body:
 
-Name, Category, Location (map snippet)
+    Name, Category, Location (map snippet)
 
-Description
+    Description
 
-Contact info: phone, email, social links
+    Contact info: phone, email, social links
 
-Gallery carousel
+    Gallery carousel
 
-Optional: “Related Businesses” section below
+    Optional: “Related Businesses” section below
 
 💼 4. For Businesses Page
 
-Purpose: Invite local businesses to advertise or request projects.
+    Purpose: Invite local businesses to advertise or request projects.
 
-Sections:
+    Sections:
 
-Advertise Your Business:
+    Advertise Your Business:
 
-Brief intro explaining benefits of listing on KabomHub
+    Brief intro explaining benefits of listing on KabomHub
 
-“Add My Business” button → opens a registration form
+    “Add My Business” button → opens a registration form
 
-Request a Website or App:
+    Request a Website or App:
 
-Simple form: Name, Business Name, Description, Type (Website/App), Budget (optional)
+    Simple form: Name, Business Name, Description, Type (Website/App), Budget (optional)
 
-Submit button → confirmation message or redirect
+    Submit button → confirmation message or redirect
 
 🗺️ 5. Map View Page (Optional Separate Page)
 
-Purpose: Pure exploration. Customers find businesses visually.
+    Purpose: Pure exploration. Customers find businesses visually.
 
-Layout:
+    Layout:
 
-Full-screen interactive map
+    Full-screen interactive map
 
-Sidebar filter by category and rating
+    Sidebar filter by category and rating
 
-Clickable pins open preview cards
+    Clickable pins open preview cards
 
 📄 6. About / Contact Page
 
-Short and personal — tell your story:
+    Short and personal — tell your story:
 
-“KabomHub connects local creativity to digital possibility. We build bridges between businesses and the people who need them.”
+    “KabomHub connects local creativity to digital possibility. We build bridges between businesses and the people who need them.”
 
-Include contact form or email
+    Include contact form or email
 
-Social links and small team showcase (if desired)
+    Social links and small team showcase (if desired)
 
 🌈 Design Style
 
 Palette:
 
-Primary: #FF6A00 (warm orange)
+    Primary: #FF6A00 (warm orange)
 
-Secondary: #2E2E2E (dark gray)
+    Secondary: #2E2E2E (dark gray)
 
-Accent: #00A6FF (bright blue highlights)
+    Accent: #00A6FF (bright blue highlights)
 
-Font: Poppins / Inter — clean, geometric
+    Font: Poppins / Inter — clean, geometric
 
-Mood: Minimal, modern, friendly
+    Mood: Minimal, modern, friendly
 
-Icons: Lucide or Material icons (simple line icons)
+    Icons: Lucide or Material icons (simple line icons)
