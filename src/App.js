@@ -1,21 +1,17 @@
-import React, { useState } from "react";
+import React from "react";
 import "./App.css";
-import Navbar from "./components/Navbar";
-import Sidebar from "./components/Sidebar";
-import Landing from "./components/Landing";
+import Navbar from "./components/Navbar/Navbar.js";
+import Sidebar from "./components/Sidebar/Sidebar.js";
+import Hero from "./components/Hero/Hero.js";
 
 function App() {
-  const [isOpen, setIsOpen] = useState(false);
-
-  const toggleSidebar = () => setIsOpen(!isOpen);
-
   return (
     <div className="app-container">
-      <Navbar toggleSidebar={toggleSidebar} />
-      <Sidebar isOpen={isOpen} toggleSidebar={toggleSidebar} />
-      <main className="main-content">
-        <Landing />
-      </main>
+      <Navbar />
+      <div className="main-layout">
+        <Sidebar />
+        <Hero />
+      </div>
     </div>
   );
 }

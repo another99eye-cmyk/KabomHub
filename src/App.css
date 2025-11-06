@@ -4,19 +4,18 @@
   box-sizing: border-box;
 }
 
-body, html, #root {
-  height: 100%;
-  font-family: 'Poppins', sans-serif;
-}
-
 .app-container {
+  font-family: "Poppins", sans-serif;
+  color: #333;
+  background-color: #f9fafc;
+  width: 100vw;
+  height: auto;
   display: flex;
   flex-direction: column;
-  height: 100%;
 }
 
-.main-content {
+.main-layout {
+  display: flex;
   flex: 1;
-  padding: 1rem;
-  background-color: #f8f9fa;
+  overflow: hidden;
 }

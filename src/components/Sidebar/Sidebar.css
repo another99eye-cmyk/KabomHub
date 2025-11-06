@@ -1,0 +1,32 @@
+.sidebar {
+  width: 220px;
+  background-color: #ffffff;
+  border-right: 1px solid #e5e7eb;
+  padding-top: 2rem;
+  height: 100%;
+}
+
+.sidebar-menu {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+.sidebar-menu li {
+  cursor: pointer;
+  color: #555;
+  transition: color 0.3s ease;
+}
+
+.sidebar-menu li:hover {
+  color: #2d5be3;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .sidebar {
+    display: none;
+  }
+}
